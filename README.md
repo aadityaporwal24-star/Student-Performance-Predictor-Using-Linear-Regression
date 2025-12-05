@@ -6,3 +6,4 @@ The Model is evaluated using Metrics like MAE,MSE,RMSE,R^2 Score
 #Tech Stack
 Language: Python
 Libraries: Pandas, Numpy, Scikit-learn, Matplotlib
+For Small Dataset 
